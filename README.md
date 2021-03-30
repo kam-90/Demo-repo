@@ -1,3 +1,3 @@
 # Demo
 
-App basically performs basic CRUD operations
+App basically performs basic CRUD operations!
